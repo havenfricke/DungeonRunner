@@ -31,4 +31,3 @@ These values can be used when creating transitions from state to state.
 ### Local
 - Project is equipped with local multiplayer. Pressing any control from any assigned input will spawn a player prefab.
 
-```
